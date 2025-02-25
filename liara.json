@@ -1,0 +1,9 @@
+{
+  "disks": [
+    {
+      "name": "torino-disk",
+      "mountTo": "/app/DB/"
+    }
+  ],
+  "port": 6500
+}
