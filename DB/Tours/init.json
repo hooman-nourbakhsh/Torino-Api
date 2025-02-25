@@ -1,0 +1,162 @@
+[
+  {
+    "id": "f1e2d3c4-b5a6-7890-ghij-kl1234567890",
+    "origin": {
+      "id": "1",
+      "name": "تهران"
+    },
+    "destination": {
+      "id": "2",
+      "name": "اربیل"
+    },
+    "startDate": "2025-02-08T00:00:00.000Z",
+    "endDate": "2025-02-13T00:00:00.000Z",
+    "title": "تور اربیل",
+    "fleetVehicle": "bus",
+    "price": 16250000,
+    "availableSeats": 30,
+    "insurance": false,
+    "options": ["6 روز و 5 شب", "راهنمای تور", "صبحانه و شام"],
+    "image": "/static/images/arbilTour.png"
+  },
+  {
+    "id": "g2h3i4j5-k6l7-8901-mnop-qr2345678901",
+    "origin": {
+      "id": "2",
+      "name": "سنندج"
+    },
+    "destination": {
+      "id": "3",
+      "name": "ایتالیا"
+    },
+    "startDate": "2025-02-12T00:00:00.000Z",
+    "endDate": "2025-02-20T00:00:00.000Z",
+    "title": "تور ایتالیا",
+    "fleetVehicle": "ship",
+    "price": 48500000,
+    "availableSeats": 15,
+    "insurance": true,
+    "options": ["4 روز و 3 شب", "راهنمای تور", "صبحانه و نهار", "خدمات وی آی پی"],
+    "image": "/static/images/italyTour.png"
+  },
+  {
+    "id": "s3t4u5v6-w7x8-9012-yzab-cd3456789012",
+    "origin": {
+      "id": "3",
+      "name": "مشهد"
+    },
+    "destination": {
+      "id": "4",
+      "name": "کیش"
+    },
+    "startDate": "2025-02-18T00:00:00.000Z",
+    "endDate": "2025-02-23T00:00:00.000Z",
+    "title": "تور کیش",
+    "fleetVehicle": "airplane",
+    "price": 11500000,
+    "availableSeats": 40,
+    "insurance": true,
+    "options": ["3 روز و 2 شب", "هتل 5 ستاره", "استخر اختصاصی", "صبحانه"],
+    "image": "/static/images/kishIlandTour.png"
+  },
+  {
+    "id": "e4f5g6h7-i8j9-0123-klmn-op4567890123",
+    "origin": {
+      "id": "1",
+      "name": "تهران"
+    },
+    "destination": {
+      "id": "5",
+      "name": "کردستان"
+    },
+    "startDate": "2025-02-01T00:00:00.000Z",
+    "endDate": "2025-02-06T00:00:00.000Z",
+    "title": "تور کردستان",
+    "fleetVehicle": "bus",
+    "price": 9200000,
+    "availableSeats": 20,
+    "insurance": false,
+    "options": ["3 روز و 2 شب", "راهنمای تور", "نهار و شام"],
+    "image": "/static/images/kurdestanTour.png"
+  },
+  {
+    "id": "p5q6r7s8-t9u0-1234-vwxy-z5678901234",
+    "origin": {
+      "id": "2",
+      "name": "سنندج"
+    },
+    "destination": {
+      "id": "6",
+      "name": "مادرید"
+    },
+    "startDate": "2025-03-05T00:00:00.000Z",
+    "endDate": "2025-03-15T00:00:00.000Z",
+    "title": "تور مادرید",
+    "fleetVehicle": "ship",
+    "price": 49500000,
+    "availableSeats": 10,
+    "insurance": true,
+    "options": ["6 روز و 5 شب", "راهنمای تور", "صبحانه", "بلیط ورودی به اماکن گردشگری"],
+    "image": "/static/images/madridTour.png"
+  },
+  {
+    "id": "m6n7o8p9-q0r1-2345-stuv-w6789012345",
+    "origin": {
+      "id": "3",
+      "name": "مشهد"
+    },
+    "destination": {
+      "id": "7",
+      "name": "مازندران"
+    },
+    "startDate": "2025-02-22T00:00:00.000Z",
+    "endDate": "2025-02-28T00:00:00.000Z",
+    "title": "تور مازندران",
+    "fleetVehicle": "bus",
+    "price": 7800000,
+    "availableSeats": 35,
+    "insurance": false,
+    "options": ["6 روز و 5 شب", "راهنمای تور", "صبحانه", "اقامت در کلبه چوبی"],
+    "image": "/static/images/mazandaranTour.png"
+  },
+  {
+    "id": "x7y8z9a0-b1c2-3456-defg-h7890123456",
+    "origin": {
+      "id": "1",
+      "name": "تهران"
+    },
+    "destination": {
+      "id": "8",
+      "name": "آفرود"
+    },
+    "startDate": "2025-02-25T00:00:00.000Z",
+    "endDate": "2025-03-02T00:00:00.000Z",
+    "title": "تور آفرود",
+    "fleetVehicle": "airplane",
+    "price": 22500000,
+    "availableSeats": 12,
+    "insurance": true,
+    "options": ["5 روز و 4 شب", "راهنمای تور", "چادر کوهنوردی", "پذیرایی سبک"],
+    "image": "/static/images/offroadTour.png"
+  },
+  {
+    "id": "y8z9a0b1-c2d3-4567-efgh-i8901234567",
+    "origin": {
+      "id": "2",
+      "name": "سنندج"
+    },
+    "destination": {
+      "id": "9",
+      "name": "سلیمانیه"
+    },
+    "startDate": "2025-01-10T00:00:00.000Z",
+    "endDate": "2025-01-15T00:00:00.000Z",
+    "title": "تور سلیمانیه",
+    "fleetVehicle": "bus",
+    "price": 14250000,
+    "availableSeats": 28,
+    "insurance": false,
+    "options": ["6 روز و 5 شب", "راهنمای تور", "اقامت در هتل 3 ستاره", "صبحانه و نهار"],
+    "image": "/static/images/sulaymaniyahTour.png"
+  }
+]
